@@ -13,7 +13,7 @@
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
-| Parameter 参数                 | Example 例子 | Description 说明 |
+| Parameter               | Example | Description |
 |----------------------|-----|--|
 | project-name         | myproject | a |
 | username             | ngpanwei | a|
