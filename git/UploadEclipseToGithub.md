@@ -110,24 +110,25 @@ Location:/Users/ngpanwei/mygit/myproject
 
 ### Step－5－Add和Commit你的Eclipse Project到本地Repository
 现在你可以通过命令行把你的Eclipse Project上传到你的本地git repository
-1) 上传Eclipse Project
+#### 5.1－上传Eclipse Project
 ````
 > git add
 > git commit -a -m "upload"
 ````
 ![上传到本地repo图片](images/UploadEclipseToGithub-git-add-commit.png)
-1) 验证正确上传
+#### 5.1－验证正确上传
 刷新你的github repository。现在应该能够看到你的Eclipse Project了。
 
 ### Step－6－Push你的Eclipse Project到本地Repository
 现在你可以通过命令行把你的Eclipse Project上传到你的本地github repository
-1) 上传Eclipse Project
+#### 6.1－上传Eclipse Project
 ````
 > git push origin master
 ````
-1) 验证正确上传
+![上传到github图片](images/UploadEclipseToGithub-git-push.png)
+#### 6.2－验证正确上传
 刷新你的github repository。现在应该能够看到你的Eclipse Project了。
 
-
+![完成图片](images/UploadEclipseToGithub-complete.png)
 
 
