@@ -6,12 +6,13 @@
 ＊ 我假设你已经安装Eclipse。
 
 这个指导有一系列参数。每个参数是通过(xxx)的格式在这个指导现实。在操作是请替换这个参数。
-| 参数                 | 说明 | 例子 |
-| project-name         |      | |
-| username             |      | |
-| repo-name            |      | |
-| git-working-folder   |      | |
-| git-working-path     |      | |
+| 参数                 | 例子 | 说明 |
+|----------------------|-----|--|
+| project-name         | myproject | |
+| username             | ngpanwei | |
+| repo-name            | myrepo | |
+| git-working-folder   | mygit     | |
+| git-working-path     | /Users/ngpanwei/mygit | |
 
 
 ### 创建github repository
@@ -33,7 +34,8 @@ Initialize this repository with a README ：勾选
 #### 3) 检查新创建的Repository主页
 主页右下角有这个Repository。
 在“HTTPS clone URL”标记底下有这个repository入境。
-是这个格式的：https://github.com/(username)/(repo-name）.git
+是这个格式的：！
+https://github.com/(username)/(repo-name）.git
 
 ### 建立本地Local Repository
 目标：通过git命令行工具建立相对的本地Local Repository
