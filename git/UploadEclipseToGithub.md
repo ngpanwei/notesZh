@@ -34,10 +34,11 @@ Description     ：<-- 输入给个简单描述
 Initialize this repository with a README ：勾选
 ````
 点击"Create Repository"
+
+![创建程图片](images/UploadEclipseToGithub-01.png)
+
 #### 1.3－检查新创建的Repository主页
-主页右下角有这个Repository。
-在“HTTPS clone URL”标记底下有这个repository路径。
-是这个格式的:
+主页右下角显示这个Repository的路径。路径个格式的:
 ````
 https://github.com/(username)/(repo-name）.git
 ````
@@ -45,6 +46,7 @@ Example(例子):
 ````
 https://github.com/ngpanwei/myrepo.git
 ````
+![repo路径图片](images/UploadEclipseToGithub-02.png)
 
 ### Step－2－建立本地Local Repository
 目标：通过git命令行工具建立相对的本地Local Repository
