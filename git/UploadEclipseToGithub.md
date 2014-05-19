@@ -9,13 +9,13 @@
 
 | Parameter        | Example           | Description  |
 | :------------ |:-------------| :-----|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
+| project-name      | myproject | 你的Eclipse Project名 |
+| username      | ngpanwei     |  你的github账号 |
 | zebra stripes | are neat      |    $1 |
 
 | Parameter               | Example | Description |
 |----------------------|-----|--|
-| project-name         | myproject | a |
+|         |  | a |
 | username             | ngpanwei | a|
 | repo-name            | myrepo | a|
 | git-working-folder   | mygit     |a |
