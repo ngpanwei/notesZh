@@ -14,8 +14,8 @@
 | :------------ |:-------------| :-----|
 | project-name | myproject | 你的Eclipse Project名 |
 | username | ngpanwei  |  你的github账号 |
-| email | dev@ngpanwei.com  |  你的注册的email地址 |
-| password | ****  |  你的注册的密码 |
+| email | ********  |  你的注册的email地址 |
+| password | *******  |  你的注册的密码 |
 | repo-name  | myrepo  | 你的github repository名 |
 | git-working-folder | mygit  | 你的本地git工作目录 |
 | git-working-path | /Users/ngpanwei/mygit | 你的本地git工作路径  |
