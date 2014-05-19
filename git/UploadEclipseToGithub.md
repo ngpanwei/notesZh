@@ -14,6 +14,8 @@
 | :------------ |:-------------| :-----|
 | project-name | myproject | 你的Eclipse Project名 |
 | username | ngpanwei  |  你的github账号 |
+| email | dev@ngpanwei.com  |  你的注册的email地址 |
+| password | ****  |  你的注册的密码 |
 | repo-name  | myrepo  | 你的github repository名 |
 | git-working-folder | mygit  | 你的本地git工作目录 |
 | git-working-path | /Users/ngpanwei/mygit | 你的本地git工作路径  |
@@ -125,6 +127,8 @@ Location:/Users/ngpanwei/mygit/myproject
 ````
 > git push origin master
 ````
+如果git问你的username和password，请输入你的注册email和密码。
+
 ![上传到github图片](images/UploadEclipseToGithub-git-push.png)
 #### 6.2－验证正确上传
 刷新你的github repository。现在应该能够看到你的Eclipse Project了。
