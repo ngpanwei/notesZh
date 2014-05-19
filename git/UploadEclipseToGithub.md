@@ -5,8 +5,8 @@
 ＊ 我假设你已经安装git命令行工具。
 ＊ 我假设你已经安装Eclipse。
 
-以下的图片简单描述整个过程和概念
-![上传过程图片](UploadEclipseToGithub-overview.png)
+以下的图片简单描述整个过程和概念:
+![上传过程图片](images/UploadEclipseToGithub-overview.png)
 
 这个指导有一系列参数。每个参数是通过(parameter)的格式表达。在操作是请替换这些parameter参数。
 
