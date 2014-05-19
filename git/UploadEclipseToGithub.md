@@ -100,6 +100,7 @@ Example(例子):
 ````
 Location:/Users/ngpanwei/mygit/myproject
 ````
+![移植Eclipse图片](images/UploadEclipseToGithub-eclipse-move-project.png)
 
 #### 4.2－移植之后确认
 在你的命令行工具会看到已被移植的Eclipse Project
@@ -113,8 +114,8 @@ Location:/Users/ngpanwei/mygit/myproject
 ````
 > git add
 > git commit -a -m "upload"
-> git push origin master
 ````
+![上传到本地repo图片](images/UploadEclipseToGithub-git-add-commit.png)
 1) 验证正确上传
 刷新你的github repository。现在应该能够看到你的Eclipse Project了。
 
