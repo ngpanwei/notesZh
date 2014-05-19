@@ -6,13 +6,20 @@
 ＊ 我假设你已经安装Eclipse。
 
 这个指导有一系列参数。每个参数是通过(xxx)的格式在这个指导现实。在操作是请替换这个参数。
+
+ Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 | 参数                 | 例子 | 说明 |
 |----------------------|-----|--|
-| project-name         | myproject | |
-| username             | ngpanwei | |
-| repo-name            | myrepo | |
-| git-working-folder   | mygit     | |
-| git-working-path     | /Users/ngpanwei/mygit | |
+| project-name         | myproject | a |
+| username             | ngpanwei | a|
+| repo-name            | myrepo | a|
+| git-working-folder   | mygit     |a |
+| git-working-path     | /Users/ngpanwei/mygit | a |
 
 
 ### 创建github repository
