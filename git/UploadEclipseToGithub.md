@@ -37,8 +37,14 @@ Initialize this repository with a README ：勾选
 #### 1.3－检查新创建的Repository主页
 主页右下角有这个Repository。
 在“HTTPS clone URL”标记底下有这个repository路径。
-是这个格式的：
+是这个格式的:
+````
 https://github.com/(username)/(repo-name）.git
+````
+Example(例子):
+````
+https://github.com/ngpanwei/myrepo.git
+````
 
 ### Step－2－建立本地Local Repository
 目标：通过git命令行工具建立相对的本地Local Repository
@@ -56,12 +62,23 @@ mkdir (git-folder)
 cd (git-folder)
 pwd 
 ````
+Example(例子):
+````
+mkdir mygit
+cd mygit
+pwd 
+````
 记录你的git工作目录路径（git-working-path）。
 
 ### Step－3－Clone github 的 Repository
 创建本地的相对repository
 ````
 > git clone https://github.com/(username)/(repo-name).git
+> ls
+````
+Example(例子):
+````
+> git clone https://github.com/ngpanwei/myrepo.git
 > ls
 ````
 之后你可以看见一个新的创建目录:（repo-name）
@@ -77,6 +94,11 @@ pwd
 ````
 Location:(git-working-path)/(project-name)
 ````
+Example(例子):
+````
+Location:/Users/ngpanwei/mygit/myproject
+````
+
 #### 4.2－移植之后确认
 在你的命令行工具会看到已被移植的Eclipse Project
 ````
