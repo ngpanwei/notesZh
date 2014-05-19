@@ -5,21 +5,16 @@
 ＊ 我假设你已经安装git命令行工具。
 ＊ 我假设你已经安装Eclipse。
 
-这个指导有一系列参数。每个参数是通过(xxx)的格式在这个指导现实。在操作是请替换这个参数。
+这个指导有一系列参数。每个参数是通过(parameter)的格式表达。在操作是请替换这些parameter参数。
 
 | Parameter        | Example           | Description  |
 | :------------ |:-------------| :-----|
-| project-name      | myproject | 你的Eclipse Project名 |
-| username      | ngpanwei     |  你的github账号 |
-| zebra stripes | are neat      |    $1 |
+| project-name | myproject | 你的Eclipse Project名 |
+| username | ngpanwei  |  你的github账号 |
+| repo-name  | myrepo  | 你的github repository名 |
+| git-working-folder | mygit  | 你的本地git工作目录 |
+| git-working-path | /Users/ngpanwei/mygit | 你的本地git工作路径  |
 
-| Parameter               | Example | Description |
-|----------------------|-----|--|
-|         |  | a |
-| username             | ngpanwei | a|
-| repo-name            | myrepo | a|
-| git-working-folder   | mygit     |a |
-| git-working-path     | /Users/ngpanwei/mygit | a |
 
 
 ### 创建github repository
@@ -40,7 +35,7 @@ Initialize this repository with a README ：勾选
 点击"Create Repository"
 #### 3) 检查新创建的Repository主页
 主页右下角有这个Repository。
-在“HTTPS clone URL”标记底下有这个repository入境。
+在“HTTPS clone URL”标记底下有这个repository路径。
 是这个格式的：！
 https://github.com/(username)/(repo-name）.git
 
@@ -60,7 +55,7 @@ mkdir (git-folder)
 cd git
 pwd 
 ````
-记录你的git工作目录入境（git-working-path）。
+记录你的git工作目录路径（git-working-path）。
 
 #### 3）Clone github 的 Repository
 创建本地的相对repository
