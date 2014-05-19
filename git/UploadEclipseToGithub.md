@@ -7,8 +7,8 @@
 
 这个指导有一系列参数。每个参数是通过(xxx)的格式在这个指导现实。在操作是请替换这个参数。
 
- Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
+| Parameter        | Example           | Description  |
+| :------------ |:-------------| :-----|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
