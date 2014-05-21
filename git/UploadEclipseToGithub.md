@@ -92,9 +92,9 @@ Example(例子):
 假设：你已经创建Eclipse Project了而这个Eclipse Project名称是(project-name)
 
 #### 4.1－通过Eclipse Refactor Move移植Eclipse Project
-1) 打开你的Eclipse Project。
-1) 鼠标点击Eclipse Project。右键-->Refactor-->Move
-1）在Move Project窗口输入
+ 1. 打开你的Eclipse Project。
+ 1. 鼠标点击Eclipse Project。右键-->Refactor-->Move
+ 1. 在Move Project窗口输入
 ````
 Location:(git-working-path)/(project-name)
 ````
